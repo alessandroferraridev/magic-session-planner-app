@@ -1,0 +1,22 @@
+# Dependencies and build output
+node_modules/
+.expo/
+dist/
+build/
+coverage/
+*.tsbuildinfo
+
+# Local settings and credentials
+.env
+.env.*
+!.env.example
+*.log
+*.jks
+*.keystore
+*.p8
+*.p12
+*.mobileprovision
+
+# Operating system files
+.DS_Store
+Thumbs.db
