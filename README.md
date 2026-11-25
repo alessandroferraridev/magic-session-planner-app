@@ -4,7 +4,7 @@ React Native mobile application for discovering nearby Magic: The Gathering sess
 
 ## Planned stack
 
-React Native with Expo and TypeScript, Expo Router, Expo Location, TanStack Query, and secure device token storage. iOS and Android are the proposed initial platforms.
+React Native with Expo and TypeScript, Expo Router, Expo Location, TanStack Query, and secure device token storage. iOS and Android through Expo are confirmed. Sign-in will support email magic links, Google, and Apple; the authentication provider remains undecided.
 
 ## Development plan
 
