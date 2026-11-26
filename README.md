@@ -12,4 +12,4 @@ Start with the [shared development plan](../magic-session-planner-docs/README.md
 
 Use feature branches from the protected default `dev` branch and pull requests; `main` contains release milestones. Framework setup, dependency installation, and application code are planned for roadmap step 1; there are no run or build commands yet.
 
-See the [accepted authentication policy](../magic-session-planner-docs/authentication-decisions.md), [operating/retention policy](../magic-session-planner-docs/operational-proposal.md), and [decision audit](../magic-session-planner-docs/decision-audit.md). Only the initial format catalogue remains open. Unit, integration and E2E suites are required from scaffolding; none exists yet.
+See the [accepted authentication policy](../magic-session-planner-docs/authentication.md), [operating/retention policy](../magic-session-planner-docs/operations.md), and [implementation roadmap](../magic-session-planner-docs/development-roadmap.md). Only the initial format catalogue remains open. Unit, integration and E2E suites are required from scaffolding; none exists yet.
